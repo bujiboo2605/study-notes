@@ -2,6 +2,9 @@
 
 ### Table of Contents
 [red-team]
+
 [blue-team]
+
 [technical-research]
+
 [projects]
